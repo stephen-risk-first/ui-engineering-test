@@ -1,4 +1,4 @@
-import { Friend } from "./Friend"
+import { Friend } from "./Friend";
 
 export type User = {
   _id: string;
@@ -12,7 +12,7 @@ export type User = {
   name: {
     first: string;
     last: string;
-  },
+  };
   company: string;
   email: string;
   phone: string;

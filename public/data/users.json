@@ -20,25 +20,8 @@
     "registered": "Thursday, May 29, 2014 7:49 AM",
     "latitude": "-84.339921",
     "longitude": "66.114359",
-    "tags": [
-      "ea",
-      "ex",
-      "esse",
-      "pariatur",
-      "nostrud"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
+    "tags": ["ea", "ex", "esse", "pariatur", "nostrud"],
+    "range": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
     "friends": [
       {
         "id": 0,
@@ -77,25 +60,8 @@
     "registered": "Sunday, February 19, 2017 6:13 PM",
     "latitude": "36.972355",
     "longitude": "-17.458552",
-    "tags": [
-      "dolore",
-      "sint",
-      "anim",
-      "id",
-      "ut"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
+    "tags": ["dolore", "sint", "anim", "id", "ut"],
+    "range": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
     "friends": [
       {
         "id": 0,
@@ -134,25 +100,8 @@
     "registered": "Tuesday, January 24, 2017 7:49 AM",
     "latitude": "-48.6782",
     "longitude": "9.039336",
-    "tags": [
-      "velit",
-      "irure",
-      "occaecat",
-      "aliquip",
-      "occaecat"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
+    "tags": ["velit", "irure", "occaecat", "aliquip", "occaecat"],
+    "range": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
     "friends": [
       {
         "id": 0,
@@ -191,25 +140,8 @@
     "registered": "Sunday, April 2, 2017 1:17 PM",
     "latitude": "-54.361041",
     "longitude": "-139.581239",
-    "tags": [
-      "magna",
-      "et",
-      "qui",
-      "sit",
-      "reprehenderit"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
+    "tags": ["magna", "et", "qui", "sit", "reprehenderit"],
+    "range": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
     "friends": [
       {
         "id": 0,
@@ -248,25 +180,8 @@
     "registered": "Thursday, June 19, 2014 2:48 AM",
     "latitude": "8.4993",
     "longitude": "149.924815",
-    "tags": [
-      "anim",
-      "ex",
-      "minim",
-      "laborum",
-      "anim"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
+    "tags": ["anim", "ex", "minim", "laborum", "anim"],
+    "range": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
     "friends": [
       {
         "id": 0,
@@ -305,25 +220,8 @@
     "registered": "Monday, November 2, 2015 5:34 PM",
     "latitude": "73.05091",
     "longitude": "-167.346587",
-    "tags": [
-      "amet",
-      "officia",
-      "fugiat",
-      "magna",
-      "non"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
+    "tags": ["amet", "officia", "fugiat", "magna", "non"],
+    "range": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
     "friends": [
       {
         "id": 0,
