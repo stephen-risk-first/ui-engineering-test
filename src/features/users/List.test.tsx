@@ -1,5 +1,5 @@
 import { render } from "@testing-library/react";
-import React from "react";
+import * as React from "react";
 import data from "../../../public/data/users.json";
 import { User } from "../../types/User";
 import { List } from "./List";
