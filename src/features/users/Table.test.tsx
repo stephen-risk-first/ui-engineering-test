@@ -12,7 +12,7 @@ describe("Users - Table", () => {
     container = render(<Table data={users} />).container;
   });
 
-  test("it should list display column headings", () => {
+  test("it should display column headings", () => {
     const expectedValues = ["Name", "Balance", "Age", "Picture"];
     const tableHeaders = container.querySelectorAll("th");
 
@@ -21,7 +21,7 @@ describe("Users - Table", () => {
     });
   });
 
-  test("it should output each user's name", () => {
+  test("it should display each user's name", () => {
     const expectedValues = users.map(
       ({ name: { first, last } }) => `${first} ${last}`
     );
@@ -32,7 +32,7 @@ describe("Users - Table", () => {
     });
   });
 
-  test("it should output each user's balance", () => {
+  test("it should display each user's balance", () => {
     const expectedValues = users.map(({ balance }) => balance);
     const tableCells = container.querySelectorAll("td:nth-child(2)");
 
@@ -41,7 +41,7 @@ describe("Users - Table", () => {
     });
   });
 
-  test("it should output each user's age", () => {
+  test("it should display each user's age", () => {
     const expectedValues = users.map(({ age }) => age);
     const tableCells = container.querySelectorAll("td:nth-child(3)");
 
@@ -50,7 +50,7 @@ describe("Users - Table", () => {
     });
   });
 
-  test("it should output each user's picture", () => {
+  test("it should display each user's picture", () => {
     const tableCells = container.querySelectorAll("td:nth-child(4)");
 
     expect.assertions(2 * users.length);
