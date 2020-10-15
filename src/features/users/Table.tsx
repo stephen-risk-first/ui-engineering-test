@@ -1,11 +1,11 @@
 import * as React from "react";
 import { User } from "../../types/User";
-import "./List.css";
+import "./Table.css";
 
-interface ListProps {
+interface TableProps {
   data: User[];
 }
 
-export const List: React.FC<ListProps> = (props) => {
+export const Table: React.FC<TableProps> = (props) => {
   return <pre>{JSON.stringify(props.data, null, 2)}</pre>;
 };

@@ -2,14 +2,14 @@ import { render } from "@testing-library/react";
 import * as React from "react";
 import data from "../../../public/data/users.json";
 import { User } from "../../types/User";
-import { List } from "./List";
+import { Table } from "./Table";
 
-describe("Users - List", () => {
+describe("Users - Table", () => {
   let container: HTMLElement;
   const users = data as User[];
 
   beforeEach(() => {
-    container = render(<List data={users} />).container;
+    container = render(<Table data={users} />).container;
   });
 
   test("it should list display column headings", () => {

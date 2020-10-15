@@ -1,9 +1,9 @@
 import * as React from "react";
 import { useEffect, useState } from "react";
 import { User } from "../../types/User";
-import { List } from "./List";
+import { Table } from "./Table";
 
-export const ListContainer: React.FC = () => {
+export const TableContainer: React.FC = () => {
   const [users, setUsers] = useState([] as User[]);
 
   useEffect(() => {
@@ -17,5 +17,5 @@ export const ListContainer: React.FC = () => {
     requestData();
   }, []);
 
-  return <List data={users} />;
+  return <Table data={users} />;
 };

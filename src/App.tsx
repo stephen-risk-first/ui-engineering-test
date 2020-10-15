@@ -1,5 +1,5 @@
 import * as React from "react";
-import { ListContainer as UserList } from "./features/users/ListContainer";
+import { TableContainer as UserTable } from "./features/users/TableContainer";
 import "./App.css";
 
-export const App: React.FC = () => <UserList />;
+export const App: React.FC = () => <UserTable />;
