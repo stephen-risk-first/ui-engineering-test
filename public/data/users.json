@@ -4,7 +4,7 @@
     "index": 0,
     "guid": "0394846b-a0a0-49fd-88f8-c568436c43e9",
     "isActive": false,
-    "balance": "$1,192.31",
+    "balance": "$1,425,192.31",
     "picture": "http://placehold.it/32x32",
     "age": 32,
     "eyeColor": "blue",
@@ -129,7 +129,7 @@
     "age": 28,
     "eyeColor": "blue",
     "name": {
-      "first": "Gena",
+      "first": "Arnold",
       "last": "Ayala"
     },
     "company": "ZYTREX",
