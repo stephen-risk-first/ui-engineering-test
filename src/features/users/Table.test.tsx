@@ -6,7 +6,7 @@ import { Table } from "./Table";
 
 describe("Users - Table", () => {
   let container: HTMLElement;
-  const users = data as User[];
+  const users: User[] = data;
 
   beforeEach(() => {
     container = render(<Table data={users} />).container;

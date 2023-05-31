@@ -4,7 +4,7 @@ import { User } from "../../types/User";
 import { Table } from "./Table";
 
 export const TableContainer: React.FC = () => {
-  const [users, setUsers] = useState([] as User[]);
+  const [users, setUsers] = useState<User[]>([]);
 
   useEffect(() => {
     const requestData = async () => {
